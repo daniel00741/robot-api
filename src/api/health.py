@@ -9,5 +9,5 @@ async def health_check() -> dict:
         "status": "ok",
         "service": "robot-api",
         "environment": "dev",
-        "message": "Robot API is running fast api"
+        "message": "Robot API is running fast api - version 2"
     }
